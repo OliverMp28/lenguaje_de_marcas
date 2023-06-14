@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="libros.xsl" type="text/xsl"?>
+<libros>
+  <libro>
+    <titulo>El Gran Gatsby</titulo>
+    <autor>F. Scott Fitzgerald</autor>
+    <anio_publicacion>1925</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>180</paginas>
+    <editorial>Penguin Books</editorial>
+    <precio>12.99</precio>
+    <valoracion>4.5</valoracion>
+  </libro>
+  <libro>
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <anio_publicacion>1949</anio_publicacion>
+    <genero>Ficción distópica</genero>
+    <paginas>328</paginas>
+    <editorial>Secker y Warburg</editorial>
+    <precio>9.99</precio>
+    <valoracion>4.8</valoracion>
+  </libro>
+  <libro>
+    <titulo>Matar a un ruiseñor</titulo>
+    <autor>Harper Lee</autor>
+    <anio_publicacion>1960</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>281</paginas>
+    <editorial>J. B. Lippincott y Co.</editorial>
+    <precio>11.50</precio>
+    <valoracion>4.7</valoracion>
+  </libro>
+  <libro>
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <anio_publicacion>1605</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>863</paginas>
+    <editorial>Francisco de Robles</editorial>
+    <precio>15.99</precio>
+    <valoracion>4.9</valoracion>
+  </libro>
+  <libro>
+    <titulo>Cien años de soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <anio_publicacion>1967</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>417</paginas>
+    <editorial>Editorial Sudamericana</editorial>
+    <precio>13.75</precio>
+    <valoracion>4.6</valoracion>
+  </libro>
+  <libro>
+    <titulo>Harry Potter y la piedra filosofal</titulo>
+    <autor>J.K. Rowling</autor>
+    <anio_publicacion>1997</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>223</paginas>
+    <editorial>Bloomsbury</editorial>
+    <precio>10.99</precio>
+    <valoracion>4.8</valoracion>
+  </libro>
+  <libro>
+    <titulo>Orgullo y prejuicio</titulo>
+    <autor>Jane Austen</autor>
+    <anio_publicacion>1813</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>432</paginas>
+    <editorial>T. Egerton, Whitehall</editorial>
+    <precio>9.25</precio>
+    <valoracion>4.7</valoracion>
+  </libro>
+  <libro>
+    <titulo>Ulises</titulo>
+    <autor>James Joyce</autor>
+    <anio_publicacion>1922</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>783</paginas>
+    <editorial>Sylvia Beach</editorial>
+    <precio>14.50</precio>
+    <valoracion>4.5</valoracion>
+  </libro>
+  <libro>
+    <titulo>El guardián entre el centeno</titulo>
+    <autor>J.D. Salinger</autor>
+    <anio_publicacion>1951</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>234</paginas>
+    <editorial>Little, Brown and Company</editorial>
+    <precio>11.99</precio>
+    <valoracion>4.3</valoracion>
+  </libro>
+  <libro>
+    <titulo>Los juegos del hambre</titulo>
+    <autor>Suzanne Collins</autor>
+    <anio_publicacion>2008</anio_publicacion>
+    <genero>Ficción distópica</genero>
+    <paginas>374</paginas>
+    <editorial>Scholastic</editorial>
+    <precio>12.50</precio>
+    <valoracion>4.6</valoracion>
+  </libro>
+  <libro>
+    <titulo>Crónica de una muerte anunciada</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <anio_publicacion>1981</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>120</paginas>
+    <editorial>Editorial La Oveja Negra</editorial>
+    <precio>8.99</precio>
+    <valoracion>4.2</valoracion>
+  </libro>
+  <libro>
+    <titulo>El retrato de Dorian Gray</titulo>
+    <autor>Oscar Wilde</autor>
+    <anio_publicacion>1890</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>254</paginas>
+    <editorial>Ward, Lock and Company</editorial>
+    <precio>10.75</precio>
+    <valoracion>4.7</valoracion>
+  </libro>
+  <libro>
+    <titulo>El principito</titulo>
+    <autor>Antoine de Saint-Exupéry</autor>
+    <anio_publicacion>1943</anio_publicacion>
+    <genero>Literatura infantil</genero>
+    <paginas>96</paginas>
+    <editorial>Reynal y Hitchcock</editorial>
+    <precio>7.50</precio>
+    <valoracion>4.8</valoracion>
+  </libro>
+  <libro>
+    <titulo>En busca del tiempo perdido</titulo>
+    <autor>Marcel Proust</autor>
+    <anio_publicacion>1913</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>4215</paginas>
+    <editorial>Grasset</editorial>
+    <precio>19.99</precio>
+    <valoracion>4.5</valoracion>
+  </libro>
+  <libro>
+    <titulo>El señor de los anillos</titulo>
+    <autor>J.R.R. Tolkien</autor>
+    <anio_publicacion>1954</anio_publicacion>
+    <genero>Fantasía</genero>
+    <paginas>1137</paginas>
+    <editorial>Allen y Unwin</editorial>
+    <precio>16.99</precio>
+    <valoracion>4.9</valoracion>
+  </libro>
+  <libro>
+    <titulo>Los pilares de la Tierra</titulo>
+    <autor>Ken Follett</autor>
+    <anio_publicacion>1989</anio_publicacion>
+    <genero>Ficción histórica</genero>
+    <paginas>1007</paginas>
+    <editorial>William Morrow and Company</editorial>
+    <precio>13.99</precio>
+    <valoracion>4.7</valoracion>
+  </libro>
+  <libro>
+    <titulo>El Alquimista</titulo>
+    <autor>Paulo Coelho</autor>
+    <anio_publicacion>1988</anio_publicacion>
+    <genero>Ficción espiritual</genero>
+    <paginas>197</paginas>
+    <editorial>Editora Rocco</editorial>
+    <precio>9.25</precio>
+    <valoracion>4.5</valoracion>
+  </libro>
+  <libro>
+    <titulo>Las aventuras de Tom Sawyer</titulo>
+    <autor>Mark Twain</autor>
+    <anio_publicacion>1876</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>288</paginas>
+    <editorial>American Publishing Company</editorial>
+    <precio>8.99</precio>
+    <valoracion>4.3</valoracion>
+  </libro>
+  <libro>
+    <titulo>Fundación</titulo>
+    <autor>Isaac Asimov</autor>
+    <anio_publicacion>1951</anio_publicacion>
+    <genero>Ciencia ficción</genero>
+    <paginas>255</paginas>
+    <editorial>Gnome Press</editorial>
+    <precio>11.50</precio>
+    <valoracion>4.7</valoracion>
+  </libro>
+  <libro>
+    <titulo>Moby-Dick</titulo>
+    <autor>Herman Melville</autor>
+    <anio_publicacion>1851</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>585</paginas>
+    <editorial>Harper y Brothers</editorial>
+    <precio>10.99</precio>
+    <valoracion>4.5</valoracion>
+  </libro>
+  <libro>
+    <titulo>El código Da Vinci</titulo>
+    <autor>Dan Brown</autor>
+    <anio_publicacion>2003</anio_publicacion>
+    <genero>Ficción</genero>
+    <paginas>689</paginas>
+    <editorial>Doubleday</editorial>
+    <precio>12.75</precio>
+    <valoracion>4.4</valoracion>
+  </libro>
+  <libro>
+    <titulo>La Odisea</titulo>
+    <autor>Homer</autor>
+    <anio_publicacion>800 a.C.</anio_publicacion>
+    <genero>Poesía épica</genero>
+    <paginas>374</paginas>
+    <editorial>No aplicable</editorial>
+    <precio>9.99</precio>
+    <valoracion>4.7</valoracion>
+  </libro>
+</libros>
